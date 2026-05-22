@@ -1,0 +1,1 @@
+export { default } from "../(main)/(tabs)/home/restaurant/[id]";
